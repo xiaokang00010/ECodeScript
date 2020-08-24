@@ -9,4 +9,6 @@ if["$ADDTOPATH -a y"];THEN
     echo Adding...
     echo $ECode_Script_Install_Path/ECode.Script/ECode.S
     sudo ln -s $ECode_Script_Install_Path/ECode.Script/ECode.S /usr/local/bin/
-    echo Install Success!
+
+echo Createing Files...
+echo Install Success!
